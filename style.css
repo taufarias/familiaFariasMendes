@@ -138,6 +138,11 @@ aside span {
   color: #9e9ea0;
 }
 
+aside a {
+  text-decoration: none;
+  color: #9e9ea0;
+}
+
 @media (max-width: 768px){
   :root {
     font-size: 14px;
